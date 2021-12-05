@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Гироскоп</string>
+    <string name="coordinates_by_default">X:0; Y:0; Z:0</string>
+</resources>
